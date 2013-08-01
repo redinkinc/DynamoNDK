@@ -9,7 +9,11 @@ Stand alone Project for developing new node for Ian Keough's Dynamo.
 
 ##Contributor
 
-[Fabian Ritter](htpps://github.com/redinkinc) | [LOC, TU München](http://www.loc.tum.de) | Germany
+[Fabian Ritter](https://github.com/redinkinc) | [LOC, TU München](http://www.loc.tum.de) | Germany
+
+##Using the NDK
+
+[How to set up the Dynamo NDK](https://github.com/redinkinc/DynamoNDK/wiki/Set-up-the-DynamoNDK)
 
 ##Dynamo License
 
