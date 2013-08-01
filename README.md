@@ -9,7 +9,7 @@ Stand alone Project for developing new node for Ian Keough's Dynamo.
 
 ##Contributor
 
-[Fabian Ritter](htpps://github.com/redinkinc) | [LOC](http://www.loc.tum.de), TU München | Germany
+[Fabian Ritter](htpps://github.com/redinkinc) | [LOC, TU München](http://www.loc.tum.de) | Germany
 
 ##Dynamo License
 
