@@ -1,0 +1,4 @@
+C:\Program Files\Dynamo 0.7\nodes\SampleLibraryZeroTouch.dll
+F:\Projekte\CustonNodeDev\SampleLibraryZeroTouch\obj\Debug\SampleLibraryZeroTouch.dll
+F:\Projekte\CustonNodeDev\SampleLibraryZeroTouch\obj\Debug\SampleLibraryZeroTouch.pdb
+C:\Program Files\Dynamo 0.7\nodes\SampleLibraryZeroTouch.pdb
