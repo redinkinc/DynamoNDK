@@ -1,4 +1,0 @@
-C:\Autodesk\Dynamo\Core\DynamoNodes.dll
-C:\Autodesk\Dynamo\Core\DynamoNodes.pdb
-E:\Code\Nodes\DynamoNodeDK\DynamoNode\obj\Debug\DynamoNodes.dll
-E:\Code\Nodes\DynamoNodeDK\DynamoNode\obj\Debug\DynamoNodes.pdb
