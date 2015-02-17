@@ -22,7 +22,7 @@ The DynamoNDK is priviously developed by Ian Keough as a Project in the Dynamo C
 
 Those portions created by Ian are provided with the following copyright:
 
-Copyright 2013 Ian Keough
+Copyright 2014 Ian Keough
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
