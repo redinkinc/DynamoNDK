@@ -4,3 +4,4 @@ SampleLibraryUI/bin/
 SampleLibraryUI/obj/
 SampleLibraryZeroTouch/bin/
 SampleLibraryZeroTouch/obj/
+*.csproj
