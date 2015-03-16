@@ -7,6 +7,8 @@ Dynamo Node Developer Kit.
 
 Stand alone Project for developing new node for Ian Keough's Dynamo.
 
+###WARNING: The use of the current solution of dynamoNDK is a little tricky. You have to load the SampleLibraryZeroTouch.dll in your program first in order to use the PeriodicUpdater without any warnings. Even though both DLLs are loaded into the Dynamo/Nodes folder.
+
 ##Contributor
 
 [Fabian Ritter](https://github.com/redinkinc) | [LOC, TU München](http://www.loc.tum.de) | Germany
