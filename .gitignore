@@ -1,8 +1,8 @@
 SampleLibraryUI/bin/
+SampleLibraryUI/obj/
 SampleLibraryZeroTouch/bin/
 SampleLibraryZeroTouch/obj/
-*.csproj
+*.csproj.user
 CustonNodeDev.v12.suo
 Visual Studio 2013/
 bin/
-SampleLibraryUI/obj/
