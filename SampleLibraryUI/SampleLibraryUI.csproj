@@ -34,34 +34,37 @@
     <DocumentationFile>bin\Release\$(UICulture)\SampleLibraryUI.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CSharpAnalytics.WinForms">
+      <HintPath>C:\Program Files\Dynamo 0.8\CSharpAnalytics.WinForms.dll</HintPath>
+    </Reference>
     <Reference Include="DSCoreNodesUI">
-      <HintPath>C:\Program Files\Dynamo\nodes\DSCoreNodesUI.dll</HintPath>
+      <HintPath>C:\Program Files\Dynamo 0.8\nodes\DSCoreNodesUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="DynamoCore">
-      <HintPath>C:\Program Files\Dynamo\DynamoCore.dll</HintPath>
+      <HintPath>C:\Program Files\Dynamo 0.8\DynamoCore.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="DynamoCoreWpf">
-      <HintPath>C:\Program Files\Dynamo\DynamoCoreWpf.dll</HintPath>
+      <HintPath>C:\Program Files\Dynamo 0.8\DynamoCoreWpf.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Microsoft.Practices.Prism">
-      <HintPath>C:\Program Files\Dynamo\nodes\Microsoft.Practices.Prism.dll</HintPath>
+      <HintPath>C:\Program Files\Dynamo 0.8\nodes\Microsoft.Practices.Prism.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="ProtoCore">
-      <HintPath>C:\Program Files\Dynamo\ProtoCore.dll</HintPath>
+      <HintPath>C:\Program Files\Dynamo 0.8\ProtoCore.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ProtoGeometry">
-      <HintPath>C:\Program Files\Dynamo\ProtoGeometry.dll</HintPath>
+      <HintPath>C:\Program Files\Dynamo 0.8\ProtoGeometry.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ProtoInterface">
-      <HintPath>C:\Program Files\Dynamo\ProtoInterface.dll</HintPath>
+      <HintPath>C:\Program Files\Dynamo 0.8\ProtoInterface.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
