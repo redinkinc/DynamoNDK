@@ -1,0 +1,7 @@
+F:\Projekte\02_Code\DynamoProgramming\DynamoNDK\SampleLibraryTests\bin\Debug\HelloDynamoSystemTest.dyn
+F:\Projekte\02_Code\DynamoProgramming\DynamoNDK\SampleLibraryTests\bin\Debug\TestServices.dll.config
+F:\Projekte\02_Code\DynamoProgramming\DynamoNDK\SampleLibraryTests\bin\Debug\SampleLibraryTests.dll
+F:\Projekte\02_Code\DynamoProgramming\DynamoNDK\SampleLibraryTests\bin\Debug\SampleLibraryTests.pdb
+F:\Projekte\02_Code\DynamoProgramming\DynamoNDK\SampleLibraryTests\obj\Debug\SampleLibraryTests.csprojResolveAssemblyReference.cache
+F:\Projekte\02_Code\DynamoProgramming\DynamoNDK\SampleLibraryTests\obj\Debug\SampleLibraryTests.dll
+F:\Projekte\02_Code\DynamoProgramming\DynamoNDK\SampleLibraryTests\obj\Debug\SampleLibraryTests.pdb
